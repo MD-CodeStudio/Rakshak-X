@@ -54,17 +54,17 @@ This project was developed as a collaborative team project.
 
 ## 📸 Screenshots
 ### 🏠 Home Screen
-![Home Screen](Home_Screen.png)
+![Home Screen](Home_Screen.jpeg)
 
 ### 🚨 SOS Screen
-![SOS Screen](SOS_Screen.png)
+![SOS Screen](SOS_Screen.jpeg)
 
 ### 📍 Location Screen
-![Location Screen](Location_Screen.png)
+![Location Screen](Location_Screen.jpeg)
 
 
 ### 📞 Contact Screen
-![Contact Screen](Contact_Screen.png)
+![Contact Screen](Contact_Screen.jpeg)
 
 
 ---
