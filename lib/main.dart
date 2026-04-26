@@ -42,7 +42,7 @@ class _HomeScreenState extends State<HomeScreen>
     {"title": "Electric Shock", "icon": Icons.flash_on, "color": Colors.yellow},
     {"title": "Heart Attack", "icon": Icons.monitor_heart, "color": Colors.red},
     {"title": "Drowning", "icon": Icons.water, "color": Colors.blue},
-    {"title": "Poisoning", "icon": Icons.warning, "color": Colors.greenAccent},
+    {"title": "Poisoning", "icon": Icons.warning, "color": Colors.darkgreen},
     {"title": "Allergic Reaction", "icon": Icons.sick, "color": Colors.pink},
     {"title": "Heat Stroke", "icon": Icons.wb_sunny, "color": Colors.orangeAccent},
     {"title": "Fainting", "icon": Icons.airline_seat_flat, "color": Colors.teal},
