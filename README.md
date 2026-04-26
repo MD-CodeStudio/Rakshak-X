@@ -26,21 +26,21 @@ Rakshak-X is a Flutter-based emergency response mobile application designed to p
 
 ---
 
-## 👥 Team Collaboration
+## 👥 Team Contribution
 
-This project was developed as a team collaboration. Each member contributed to different parts of the application.
+This project was developed as a collaborative team project.
 
-### 👨‍💻 Mahesh Dalve 
-- Designed and implemented the UI
-- Developed emergency call functionality
-- Integrated location services (Geolocator)
-- Managed core app logic
+### 👨‍💻 Mahesh Dalve
+- Designed and developed SOS emergency feature
+- Implemented calling and SMS functionality
+- Integrated live location using Geolocator
+- Developed core UI and app flow
 
 ### 👨‍💻 Smriti Mishra
-- Assisted in app structure and navigation
-- Worked on data handling (SharedPreferences)
+- Worked on UI improvements and design
+- Assisted in emergency guide module
 - Helped in testing and debugging
-- Contributed to UI improvements
+
 
 ---
 
